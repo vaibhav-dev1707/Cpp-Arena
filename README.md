@@ -45,3 +45,8 @@ Functions: Function creation, parameter passing, recursion, function overloading
 Pointers: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
 
 Object-Oriented Programming: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
+
+Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.
+
+Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
+
