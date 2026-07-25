@@ -29,3 +29,19 @@ program.exe
 📘 Topics Covered
 
 The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
+
+Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
+
+Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.
+
+Loops: Programs involving for, while, do-while, nested loops and patterns generation.
+
+Arrays: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.
+
+String: String handling using both C-style and C++ String library.
+
+Functions: Function creation, parameter passing, recursion, function overloading and modular programming.
+
+Pointers: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
+
+Object-Oriented Programming: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
