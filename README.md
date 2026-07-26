@@ -82,3 +82,12 @@ Contributions Steps
 3. Add your code in the appropriate folder.
 4. Write clear comments and documantations.
 5. Submit a pull request.
+
+💬 Why I Made This
+
+Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
+The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.
+
+🧾 License
+
+This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.
