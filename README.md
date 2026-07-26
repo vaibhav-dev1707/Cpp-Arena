@@ -50,3 +50,35 @@ Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, alg
 
 Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
 
+Mini Projects: Small practice application and console-based projects that combine multiple concepts together.
+
+🎯 Learning Goals
+
+Through this repository, learners will:
+
+* Build a strong foundation in C++ programming.
+* Understand Object-Oriented Programming concepts.
+* Learn efficient problrm-solving techniques.
+* Explore memory management and pointers.
+* Gain confidence in using STL containers and algorithms.
+* Preparing for coding interviews, unversity couresework and real-world projects.
+
+🤝 Contributing
+
+Cpp-Arena welcomes contributions from learners and developers of all skill levels.
+
+You can contribute by:
+
+* Adding new programs and examples.
+* Improving existing solutions.
+* Enhancing documentation.
+* Adding mini-projects and coding challanges.
+* Optimizing code and improving readbility.
+
+Contributions Steps
+
+1. Fork the repository.
+2. Create a new branch.
+3. Add your code in the appropriate folder.
+4. Write clear comments and documantations.
+5. Submit a pull request.
