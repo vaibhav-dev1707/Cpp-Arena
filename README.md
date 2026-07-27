@@ -52,7 +52,7 @@ Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sor
 
 Mini Projects: Small practice application and console-based projects that combine multiple concepts together.
 
-🎯 Learning Goals
+🎯 Learning Goals:
 Through this repository, learners will:
 
 * Build a strong foundation in C++ programming.
@@ -74,7 +74,7 @@ You can contribute by:
 * Adding mini-projects and coding challanges.
 * Optimizing code and improving readbility.
 
-Contributions Steps
+Contributions Steps:
 
 1. Fork the repository.
 2. Create a new branch.
@@ -93,4 +93,4 @@ This project is open-sourced under the MIT License. Feel free to explore, learn,
 
 🙌 Credit
 
-Built and maintained by Vaibhav, with the goal of helping beginners and aspiring developers learn C++ through hands-on coding , experimention and continuous practice.
+Built and maintained by Vaibhav, with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
