@@ -1,11 +1,9 @@
-Cpp-Arena<br>
-<hr style="height:1px;">
+Cpp-Arena
 
 Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and
 problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.
 
 This repository serves as both: 
-<hr>
 
 * A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
 * A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.
@@ -28,8 +26,7 @@ program.exe
 
 💡 Each program is standalone and can be compiled independently.
 
-📘 Topics Covered<br>
-<hr>
+📘 Topics Covered
 
 The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
 
@@ -57,7 +54,6 @@ Mini Projects: Small practice application and console-based projects that combin
 
 🎯 Learning Goals:
 Through this repository, learners will:
-<hr>
 
 * Build a strong foundation in C++ programming.
 * Understand Object-Oriented Programming concepts.
@@ -66,8 +62,7 @@ Through this repository, learners will:
 * Gain confidence in using STL containers and algorithms.
 * Preparing for coding interviews, unversity couresework and real-world projects.
 
-🤝 Contributing<br>
-<hr>
+🤝 Contributing
 
 Cpp-Arena welcomes contributions from learners and developers of all skill levels.
 
@@ -79,8 +74,7 @@ You can contribute by:
 * Adding mini-projects and coding challanges.
 * Optimizing code and improving readbility.
 
-Contributions Steps<br>
-<hr>
+Contributions Steps
 
 1. Fork the repository.
 2. Create a new branch.
@@ -89,17 +83,14 @@ Contributions Steps<br>
 5. Submit a pull request.
 
 💬 Why I Made This<br>
-<hr weidth="1">
 
 Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
 The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.
 
 🧾 License
-<hr>
 
 This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.
 
 🙌 Credit
-<hr>
 
 Built and maintained by Vaibhav, with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
