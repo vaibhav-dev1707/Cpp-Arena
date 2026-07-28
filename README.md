@@ -51,9 +51,9 @@ program.exe
 
 <li><strong>Standered Templete Library (STL)</strong>: Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.</li>
 
-<li>Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.</li>
+<li><strong>Data Structure & Algorithms</strong>: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.</li>
 
-<li>Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
+<li><strong>Mini Projects</strong>: Small practice application and console-based projects that combine multiple concepts together.</li>
 </ol>
 
 <h2>🎯 Learning Goals:</h2>
