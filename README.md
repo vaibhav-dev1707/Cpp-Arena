@@ -15,14 +15,11 @@
 Clone the repsitory:
 
 git clone https://github.com/vaibhav-dev1707/Cpp-Arena
-
 Navigate to the project directory:
 cd Cpp-Arena
-
 Compile and run any program:
 g++ program.cpp -o program
 ./program
-
 On Windows (MinGW):
 g++ program.cpp -o program.exe
 program.exe
@@ -80,16 +77,16 @@ You can contribute by:
  Improving existing solutions.
  Enhancing documentation.
  Adding mini-projects and coding challanges.
- Optimizing code and improving readbility.</li>
-</ul>
+ Optimizing code and improving readbility.
 
-Contributions Steps:
+ Contributions Steps:
 
 1. Fork the repository.
 2. Create a new branch.
 3. Add your code in the appropriate folder.
 4. Write clear comments and documantations.
-5. Submit a pull request.
+5. Submit a pull request.</li>
+</ul>
 
 <h2>💬 Why I Made This</h2>
 
