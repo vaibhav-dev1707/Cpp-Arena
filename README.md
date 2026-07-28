@@ -7,8 +7,8 @@
 <h2>This repository serves as both: </h2>
 
 <ul>
-  <li>* A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
-* A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
+  <li> A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
+  A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
 </ul>
 
 ⚙️ Quick Setup:
@@ -61,12 +61,12 @@ Mini Projects: Small practice application and console-based projects that combin
 <ul>
   <li>Through this repository, learners will:
 
-* Build a strong foundation in C++ programming.
-* Understand Object-Oriented Programming concepts.
-* Learn efficient problem-solving techniques.
-* Explore memory management and pointers.
-* Gain confidence in using STL containers and algorithms.
-* Preparing for coding interviews, unversity couresework and real-world projects.</li>
+ Build a strong foundation in C++ programming.
+ Understand Object-Oriented Programming concepts.
+ Learn efficient problem-solving techniques.
+ Explore memory management and pointers.
+ Gain confidence in using STL containers and algorithms.
+ Preparing for coding interviews, unversity couresework and real-world projects.</li>
 </ul>
 
 <h2>🤝 Contributing</h2>
