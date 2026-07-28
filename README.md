@@ -57,15 +57,17 @@ Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sor
 Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
 </ul>
 
-🎯 Learning Goals:
-Through this repository, learners will:
+<h2>🎯 Learning Goals:</h2>
+<ul>
+  <li>Through this repository, learners will:
 
 * Build a strong foundation in C++ programming.
 * Understand Object-Oriented Programming concepts.
 * Learn efficient problem-solving techniques.
 * Explore memory management and pointers.
 * Gain confidence in using STL containers and algorithms.
-* Preparing for coding interviews, unversity couresework and real-world projects.
+* Preparing for coding interviews, unversity couresework and real-world projects.</li>
+</ul>
 
 🤝 Contributing
 
