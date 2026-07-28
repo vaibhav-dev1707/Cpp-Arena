@@ -32,7 +32,7 @@ program.exe
   <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
 </ul>
 <ol>
-  <li>: Variables, data types, operators, user input/output, and basic programming constructs.</li>
+  <li><strong>Basics</strong>: Variables, data types, operators, user input/output, and basic programming constructs.</li>
 
 <li><strong>Conditionals</strong>: Decision-making programs using if-else statements, swith cases and logical operators.</li>
 
