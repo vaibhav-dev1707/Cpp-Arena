@@ -32,24 +32,24 @@ program.exe
   <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
 </ul>
 <ol>
-  <li><strong>Basics</strong>: Variables, data types, operators, user input/output, and basic programming constructs.</li>
+  <li>: Variables, data types, operators, user input/output, and basic programming constructs.</li>
 
-<li>Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.</li>
+<li><strong>Conditionals</strong>: Decision-making programs using if-else statements, swith cases and logical operators.</li>
 
-<li>Loops: Programs involving for, while, do-while, nested loops and patterns generation.</li>
+<li><strong>Loops</strong>: Programs involving for, while, do-while, nested loops and patterns generation.</li>
 
-<li>Arrays: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.</li>
+<li><strong>Arrays</strong>: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.</li>
 
-<li>String: String handling using both C-style and C++ String library.</li>
+<li><strong>String</strong>: String handling using both C-style and C++ String library.</li>
 
-<li>Functions: Function creation, parameter passing, recursion, function overloading and modular programming.</li>
+<li><strong>Functions</strong>: Function creation, parameter passing, recursion, function overloading and modular programming.</li>
 
-<li>Pointers: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
+<li><strong>Pointer</strong>: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
 </li>
 
-<li>Object-Oriented Programming: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.</li>
+<li><strong>Object-Oriented Programming</strong>: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.</li>
 
-<li>Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.</li>
+<li><strong>Standered Templete Library (STL)</strong>: Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.</li>
 
 <li>Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.</li>
 
