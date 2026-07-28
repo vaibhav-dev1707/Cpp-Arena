@@ -29,9 +29,10 @@ program.exe
 
 💡 Each program is standalone and can be compiled independently.
 
-📘 Topics Covered
+<h2>📘 Topics Covered:</h2>
 
-The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
+<ul>
+  <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
 
 Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
 
@@ -53,7 +54,8 @@ Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, alg
 
 Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
 
-Mini Projects: Small practice application and console-based projects that combine multiple concepts together.
+Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
+</ul>
 
 🎯 Learning Goals:
 Through this repository, learners will:
