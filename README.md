@@ -31,8 +31,7 @@ program.exe
 <ul>
   <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
 </li>
-  <ol>
-    <li>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
+  <ol>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
 
 Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.
 
@@ -52,7 +51,7 @@ Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, alg
 
 Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
 
-Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
+Mini Projects: Small practice application and console-based projects that combine multiple concepts together.
   </ol>
 </ul>
 
