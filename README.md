@@ -32,27 +32,28 @@ program.exe
   <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
 </ul>
 <ol>
-  <li>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
+  <li>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.</li>
 
-Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.
+<li>Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.</li>
 
-Loops: Programs involving for, while, do-while, nested loops and patterns generation.
+<li>Loops: Programs involving for, while, do-while, nested loops and patterns generation.</li>
 
-Arrays: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.
+<li>Arrays: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.</li>
 
-String: String handling using both C-style and C++ String library.
+<li>String: String handling using both C-style and C++ String library.</li>
 
-Functions: Function creation, parameter passing, recursion, function overloading and modular programming.
+<li>Functions: Function creation, parameter passing, recursion, function overloading and modular programming.</li>
 
-Pointers: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
+<li>Pointers: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
+</li>
 
-Object-Oriented Programming: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
+<li>Object-Oriented Programming: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.</li>
 
-Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.
+<li>Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.</li>
 
-Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
+<li>Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.</li>
 
-Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
+<li>Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
 </ol>
 
 <h2>🎯 Learning Goals:</h2>
