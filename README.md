@@ -4,30 +4,6 @@
   <li>Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.</li>
 </ul>
 
-<ol>
-  <li>    <li>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
-
-Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.
-
-Loops: Programs involving for, while, do-while, nested loops and patterns generation.
-
-Arrays: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.
-
-String: String handling using both C-style and C++ String library.
-
-Functions: Function creation, parameter passing, recursion, function overloading and modular programming.
-
-Pointers: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
-
-Object-Oriented Programming: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
-
-Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.
-
-Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
-
-Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
-</ol>
-
 <h2>This repository serves as both: </h2>
 
 <ul>
@@ -53,9 +29,10 @@ program.exe
 <h2>📘 Topics Covered:</h2>
 
 <ul>
-  <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
-</li>
-  <ol>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
+  <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
+</ul>
+<ol>
+  <li>Bacics: Variables, data types, operators, user input/output, and basic programming constructs.
 
 Conditionals: Decision-making programs using if-else statements, swith cases and logical operators.
 
@@ -75,9 +52,8 @@ Standard Templete Library(STL): Vector, Stack, Queue, maps, sets, iterators, alg
 
 Data Structures & Algorithms: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
 
-Mini Projects: Small practice application and console-based projects that combine multiple concepts together.
-  </ol>
-</ul>
+Mini Projects: Small practice application and console-based projects that combine multiple concepts together.</li>
+</ol>
 
 <h2>🎯 Learning Goals:</h2>
 <ul>
