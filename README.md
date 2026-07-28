@@ -11,7 +11,7 @@
   A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
 </ul>
 
-⚙️ Quick Setup:
+<h2>⚙️ Quick Setup:</h2>
 Clone the repsitory:
 
 git clone https://github.com/vaibhav-dev1707/Cpp-Arena.git
@@ -83,7 +83,7 @@ You can contribute by:
  Optimizing code and improving readbility.</li>
 </ul>
 
-Contributions Steps
+Contributions Steps:
 
 1. Fork the repository.
 2. Create a new branch.
