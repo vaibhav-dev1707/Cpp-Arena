@@ -1,7 +1,8 @@
-Cpp-Arena
+<h2>Cpp-Arena</h2>
 
-Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and
-problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.
+<ul>
+  <li>Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.</li>
+</ul>
 
 This repository serves as both: 
 
@@ -87,9 +88,11 @@ Contributions Steps
 Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
 The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.
 
-🧾 License
+<h2>🧾 License</h2>
 
-This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.
+<ul>
+  <li>This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.</li>
+</ul>
 
 <h2>🙌 Credit</h2>
 
