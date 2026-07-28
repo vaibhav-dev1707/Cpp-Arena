@@ -81,13 +81,13 @@ You can contribute by:
  Adding mini-projects and coding challanges.
  Optimizing code and improving readbility.
 
- Contributions Steps:
+<strong>Contributions Steps</strong>
 
-1. Fork the repository.
-2. Create a new branch.
-3. Add your code in the appropriate folder.
-4. Write clear comments and documantations.
-5. Submit a pull request.</li>
+Fork the repository.
+Create a new branch.
+Add your code in the appropriate folder.
+Write clear comments and documantations.
+Submit a pull request.</li>
 </ul>
 
 <h2>💬 Why I Made This</h2>
