@@ -4,10 +4,12 @@
   <li>Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.</li>
 </ul>
 
-This repository serves as both: 
+<h2>This repository serves as both: </h2>
 
-* A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
-* A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.
+<ul>
+  <li>* A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
+* A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
+</ul>
 
 ⚙️ Quick Setup:
 Clone the repsitory:
