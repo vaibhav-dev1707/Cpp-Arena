@@ -69,9 +69,10 @@ Mini Projects: Small practice application and console-based projects that combin
 * Preparing for coding interviews, unversity couresework and real-world projects.</li>
 </ul>
 
-🤝 Contributing
+<h2>🤝 Contributing</h2>
 
-Cpp-Arena welcomes contributions from learners and developers of all skill levels.
+<ul>
+  <li>Cpp-Arena welcomes contributions from learners and developers of all skill levels.
 
 You can contribute by:
 
@@ -79,7 +80,8 @@ You can contribute by:
 * Improving existing solutions.
 * Enhancing documentation.
 * Adding mini-projects and coding challanges.
-* Optimizing code and improving readbility.
+* Optimizing code and improving readbility.</li>
+</ul>
 
 Contributions Steps
 
