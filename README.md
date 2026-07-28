@@ -14,9 +14,9 @@
 <h2>⚙️ Quick Setup:</h2>
 Clone the repsitory:
 
-git clone https://github.com/vaibhav-dev1707/Cpp-Arena
-Navigate to the project directory:
-cd Cpp-Arena
+git clone https://github.com/vaibhav-dev1707/Cpp-Arena<br>
+Navigate to the project directory:<br>
+cd Cpp-Arena<br>
 Compile and run any program:
 g++ program.cpp -o program
 ./program
