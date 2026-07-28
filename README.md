@@ -76,11 +76,11 @@ Mini Projects: Small practice application and console-based projects that combin
 
 You can contribute by:
 
-* Adding new programs and examples.
-* Improving existing solutions.
-* Enhancing documentation.
-* Adding mini-projects and coding challanges.
-* Optimizing code and improving readbility.</li>
+ Adding new programs and examples.
+ Improving existing solutions.
+ Enhancing documentation.
+ Adding mini-projects and coding challanges.
+ Optimizing code and improving readbility.</li>
 </ul>
 
 Contributions Steps
@@ -91,10 +91,12 @@ Contributions Steps
 4. Write clear comments and documantations.
 5. Submit a pull request.
 
-💬 Why I Made This
+<h2>💬 Why I Made This</h2>
 
-Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
-The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.
+<ul>
+  <li>Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
+The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.</li>
+</ul>
 
 <h2>🧾 License</h2>
 
