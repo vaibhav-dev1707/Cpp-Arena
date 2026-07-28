@@ -82,7 +82,7 @@ Contributions Steps
 4. Write clear comments and documantations.
 5. Submit a pull request.
 
-💬 Why I Made This<br>
+💬 Why I Made This
 
 Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
 The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.
@@ -91,6 +91,8 @@ The goal goal is simple: learn by building, experimenting, making mistakes and i
 
 This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.
 
-🙌 Credit
+<h2>🙌 Credit</h2>
 
-Built and maintained by Vaibhav, with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
+<ul>
+  <li>Built and maintained by Vaibhav, with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.</li>
+</ul>
