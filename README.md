@@ -14,7 +14,7 @@
 <h2>⚙️ Quick Setup:</h2>
 Clone the repsitory:
 
-git clone https://github.com/vaibhav-dev1707/Cpp-Arena.git
+git clone https://github.com/vaibhav-dev1707/Cpp-Arena
 
 Navigate to the project directory:
 cd Cpp-Arena
