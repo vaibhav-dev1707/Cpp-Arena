@@ -58,13 +58,13 @@ program.exe
 
 <h2>🎯 Learning Goals:</h2>
 <ul>
-  <li>Through this repository, learners will:
+  Through this repository, learners will:
   <li> Build a strong foundation in C++ programming.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
   <li> Explore memory management and pointers.</li>
  Gain confidence in using STL containers and algorithms.
- Preparing for coding interviews, unversity couresework and real-world projects.</li>
+ Preparing for coding interviews, unversity couresework and real-world projects.
 </ul>
 
 <h2>🤝 Contributing</h2>
