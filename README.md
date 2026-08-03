@@ -77,8 +77,8 @@ You can contribute by:
 
 <li> Adding new programs and examples.</li>
  <li>Improving existing solutions.</li>
- Enhancing documentation.
- Adding mini-projects and coding challanges.
+ <li>Enhancing documentation.</li>
+ <li>Adding mini-projects and coding challanges.</li>
  Optimizing code and improving readbility.
 
 <strong>Contributions Steps</strong>
