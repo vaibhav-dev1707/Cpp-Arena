@@ -70,7 +70,7 @@ program.exe
 <h2>🤝 Contributing</h2>
 
 <ul>
- <li> Cpp-Arena welcomes contributions from learners and developers of all skill levels.</li>
+ <li>Cpp-Arena welcomes contributions from learners and developers of all skill levels.</li>
 </ul>
 
 You can contribute by:
@@ -83,11 +83,13 @@ You can contribute by:
 
 <strong>Contributions Steps</strong>
 
-Fork the repository.
-Create a new branch.
-Add your code in the appropriate folder.
-Write clear comments and documantations.
-Submit a pull request.
+<ul>
+  <li>Fork the repository.</li>
+  <li>Create a new branch.</li>
+  <li>Add your code in the appropriate folder.</li>
+  <li>Write clear comments and documantations.</li>
+  <li>Submit a pull request.</li>
+</ul>
 
 <h2>💬 Why I Made This</h2>
 
