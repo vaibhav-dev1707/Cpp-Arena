@@ -73,7 +73,7 @@ program.exe
  <li>Cpp-Arena welcomes contributions from learners and developers of all skill levels.</li>
 </ul>
 
- <strong> You can contribute by</strong>:
+ <strong> You can contribute by</strong>:<br>
 
 <ul>
   <li> Adding new programs and examples.</li>
