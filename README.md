@@ -71,10 +71,11 @@ program.exe
 
 <ul>
  <li> Cpp-Arena welcomes contributions from learners and developers of all skill levels.</li>
+</ul>
 
 You can contribute by:
 
- Adding new programs and examples.
+<li> Adding new programs and examples.</li>
  Improving existing solutions.
  Enhancing documentation.
  Adding mini-projects and coding challanges.
@@ -87,7 +88,6 @@ Create a new branch.
 Add your code in the appropriate folder.
 Write clear comments and documantations.
 Submit a pull request.
-</ul>
 
 <h2>💬 Why I Made This</h2>
 
