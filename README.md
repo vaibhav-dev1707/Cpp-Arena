@@ -62,7 +62,7 @@ program.exe
   <li> Build a strong foundation in C++ programming.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
- Explore memory management and pointers.
+  <li> Explore memory management and pointers.</li>
  Gain confidence in using STL containers and algorithms.
  Preparing for coding interviews, unversity couresework and real-world projects.</li>
 </ul>
