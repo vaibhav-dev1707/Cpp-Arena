@@ -76,7 +76,7 @@ program.exe
 You can contribute by:
 
 <li> Adding new programs and examples.</li>
- Improving existing solutions.
+ <li>Improving existing solutions.</li>
  Enhancing documentation.
  Adding mini-projects and coding challanges.
  Optimizing code and improving readbility.
