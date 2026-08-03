@@ -76,10 +76,10 @@ program.exe
 You can contribute by:
 
 <li> Adding new programs and examples.</li>
- <li>Improving existing solutions.</li>
- <li>Enhancing documentation.</li>
- <li>Adding mini-projects and coding challanges.</li>
- Optimizing code and improving readbility.
+<li>Improving existing solutions.</li>
+<li>Enhancing documentation.</li>
+<li>Adding mini-projects and coding challanges.</li>
+<li>Optimizing code and improving readbility.</li>
 
 <strong>Contributions Steps</strong>
 
