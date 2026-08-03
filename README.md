@@ -57,8 +57,8 @@ program.exe
 </ol>
 
 <h2>🎯 Learning Goals:</h2>
+ Through this repository, learners will:
 <ul>
-  Through this repository, learners will:
   <li> Build a strong foundation in C++ programming.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
