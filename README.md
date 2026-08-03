@@ -7,8 +7,8 @@
 <h2>This repository serves as both: </h2>
 
 <ul>
-  <li> A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
-  A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
+  <li> A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.</li>
+  <li> A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
 </ul>
 
 <h2>⚙️ Quick Setup:</h2>
