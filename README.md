@@ -57,7 +57,7 @@ program.exe
 </ol>
 
 <h2>🎯 Learning Goals:</h2>
- Through this repository, learners will:<br>
+   Through this repository, learners will:<br>
 <ul>
   <li> Build a strong foundation in C++ programming.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
@@ -70,7 +70,7 @@ program.exe
 <h2>🤝 Contributing</h2>
 
 <ul>
-  <li>Cpp-Arena welcomes contributions from learners and developers of all skill levels.
+ <li> Cpp-Arena welcomes contributions from learners and developers of all skill levels.</li>
 
 You can contribute by:
 
@@ -86,7 +86,7 @@ Fork the repository.
 Create a new branch.
 Add your code in the appropriate folder.
 Write clear comments and documantations.
-Submit a pull request.</li>
+Submit a pull request.
 </ul>
 
 <h2>💬 Why I Made This</h2>
