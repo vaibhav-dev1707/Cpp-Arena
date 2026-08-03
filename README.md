@@ -61,7 +61,7 @@ program.exe
   <li>Through this repository, learners will:
   <li> Build a strong foundation in C++ programming.</li>
   <li>Understand Object-Oriented Programming concepts.</li>
- Learn efficient problem-solving techniques.
+  <li>Understand Object-Oriented Programming concepts.</li>
  Explore memory management and pointers.
  Gain confidence in using STL containers and algorithms.
  Preparing for coding interviews, unversity couresework and real-world projects.</li>
