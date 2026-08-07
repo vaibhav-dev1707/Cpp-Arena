@@ -1,4 +1,3 @@
-👩‍💻 Contributors of Cpp-Arena
-<ul>
-  <li>Vaibhav - vaibhav-dev1707</li><li>Project Creater & Maintainer</li>
-</ul>
+## 👩‍💻 Contributors of Cpp-Arena
+
+- Vaibhav - [vaibhav-dev1707](https://github.com/vaibhav-dev1707) • Project Creator & Maintainer
